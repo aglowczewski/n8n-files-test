@@ -1,0 +1,4 @@
+ Eine Beispieldatei für n8n-Tests. Ein weiterer Satz im selben Absatz.
+Eine neue Zeile bedeutet einen neuen Absatz. Und ein weiterer Satz steht in dieser Zeile.
+Die dritte Zeile. Es sollte ein drittes Segment sein, das zur Übersetzung an TextUnited gesendet wird.
+Und der letzte.
