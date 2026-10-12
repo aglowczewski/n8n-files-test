@@ -1,0 +1,4 @@
+Voici un exemple de fichier pour les tests n8n. Une autre phrase dans le même paragraphe.
+Une nouvelle ligne signifie un nouveau paragraphe. Et une phrase supplémentaire sur cette ligne.
+La troisième ligne. Il devrait s'agir d'un troisième segment envoyé à TextUnited pour traduction.
+Et le dernier.
